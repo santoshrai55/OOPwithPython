@@ -13,7 +13,7 @@ A class is a blueprint or type.
 **3. What is object?**\
 Individual item generated from a class is called object.
 
-**4. How to create an object?**
+**4. How to create an object?**\
 object class\
 _car = CarBluePrint()_
 
