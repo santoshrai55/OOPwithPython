@@ -27,4 +27,4 @@ _car.stop()_
 
 **7. How to create a class?**\
 It should be created using PascalCase and specify the name 'class'\
-\_class_ModernCar:
+_class ModernCar:_\
