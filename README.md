@@ -4,11 +4,11 @@
 
 This is a practice project of OOP with python.
 
-**1. What is a model or class?**
-Model is defined by what it has (attributes) or variables and what it does (methods).
+**1. What is a model or class?** \
+Model is defined by what it has (attributes) or variables and what it does (methods).\
 
-**2. What is a class?**
-A class is a blueprint or type.
+**2. What is a class?** \
+A class is a blueprint or type. \
 
 **What is object?**
 
@@ -25,3 +25,5 @@ _car.speed_
 **How to access an method or function of a model?**
 object attribute
 _car.stop()_
+
+**How to access an method or function of a model?**
