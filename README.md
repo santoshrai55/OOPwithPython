@@ -25,4 +25,6 @@ _car.speed_
 object attribute\
 _car.stop()_
 
-**7. How to access an method or function of a model?**
+**7. How to create a class?**\
+It should be created using PascalCase and specify the name 'class'\
+\_class_ModernCar:
