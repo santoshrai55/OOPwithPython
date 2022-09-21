@@ -14,16 +14,16 @@ A class is a blueprint or type.
 
 Individual item generated from a class is called object.
 
-**How to create an object?** \
+**How to create an object?**
 object class\
-_car = CarBluePrint()_ \
+_car = CarBluePrint()_
 
 **How to access an attribute or variable of a model?** \
 object attribute \
-_car.speed_ \
+_car.speed_
 
 **How to access an method or function of a model?** \
 object attribute \
-_car.stop()_ \
+_car.stop()_
 
 **How to access an method or function of a model?** \
