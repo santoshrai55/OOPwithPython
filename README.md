@@ -10,7 +10,7 @@ Model is defined by what it has (attributes) or variables and what it does (meth
 **2. What is a class?** \
 A class is a blueprint or type.
 
-**What is object?**\
+**What is object?**
 
 Individual item generated from a class is called object.
 
@@ -26,4 +26,4 @@ _car.speed_
 object attribute\
 _car.stop()_
 
-**How to access an method or function of a model?**\
+**How to access an method or function of a model?**
